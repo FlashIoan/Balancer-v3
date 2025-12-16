@@ -23,7 +23,7 @@ library DeFiConfig {
 
     // Network addresses (Ethereum mainnet)
     address internal constant WETH_ADDRESS = 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2;
-    address internal constant USDC_ADDRESS = 0xA0b86a33E6441e88c5F2712C3E9b74B8E4d6f40A;
+    address internal constant USDC_ADDRESS = 0xa0b86a33e6441e88C5f2712C3e9B74b8e4d6f40A;
     address internal constant DAI_ADDRESS = 0x6B175474E89094C44Da98b954EedeAC495271d0F;
 
     // DEX router addresses
